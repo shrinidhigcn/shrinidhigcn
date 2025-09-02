@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shrinidhi G C N  
 
-🎓 Final-year **B.Tech in Mathematics & Computer Science**  
+🎓 Final-year **B.Tech student in Mathematics & Computer Science**  
 💡 Passionate about **Machine Learning, Data Science, and Model Training**  
 🚀 Exploring cutting-edge tech to solve real-world problems  
 
